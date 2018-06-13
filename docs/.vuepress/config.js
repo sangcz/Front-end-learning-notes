@@ -1,7 +1,7 @@
 module.exports = {
     base: '/Front-end-learning-notes/',
-    dest: './dist',
     title: '前端学习笔记',
+    dest: 'dist',
     description: 'Front-end learning notes',
     repo: 'https://sangcz.github.io/Front-end-learning-notes',
     themeConfig: {

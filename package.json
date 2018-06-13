@@ -20,9 +20,9 @@
     "url": "git+https://github.com/sangcz/Front-end-learning-notes.git"
   },
   "author": "Joy Sang",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sangcz/Front-end-learning-notes/issues"
   },
-  "homepage": "https://github.com/sangcz/Front-end-learning-notes/"
+  "homepage": "https://github.com/sangcz/Front-end-learning-notes#readme"
 }
