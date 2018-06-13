@@ -1,7 +1,7 @@
 module.exports = {
-    base: '/Front-end-learning-notes/.vuepress/dist/',
+    base: '/Front-end-learning-notes/',
     title: '前端学习笔记',
-    dest: '.vuepress/dist/',
+    dest: 'dist',
     description: 'Front-end learning notes',
     repo: 'https://sangcz.github.io/Front-end-learning-notes',
     themeConfig: {
