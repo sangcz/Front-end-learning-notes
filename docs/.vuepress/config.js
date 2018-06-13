@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/Front-end-learning-notes/',
+    base: '/Front-end-learning-notes/.vuepress/dist/',
     title: '前端学习笔记',
     dest: '.vuepress/dist/',
     description: 'Front-end learning notes',
