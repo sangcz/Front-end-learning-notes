@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/Front-end-learning-notes/',
+    base: '/',
     dest: 'dist',
     title: '前端学习笔记',
     description: 'Front-end learning notes',
